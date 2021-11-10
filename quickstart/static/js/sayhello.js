@@ -1,0 +1,3 @@
+function sayHallo() {
+    alert("hellokamu")
+}
